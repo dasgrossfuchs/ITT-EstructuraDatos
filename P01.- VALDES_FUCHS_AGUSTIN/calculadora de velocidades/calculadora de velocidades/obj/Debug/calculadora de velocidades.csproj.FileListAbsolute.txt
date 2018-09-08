@@ -1,0 +1,11 @@
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\bin\Debug\calculadora de velocidades.exe.config
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\bin\Debug\calculadora de velocidades.exe
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\bin\Debug\calculadora de velocidades.pdb
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\obj\Debug\calculadora de velocidades.csprojAssemblyReference.cache
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\obj\Debug\calculadora de velocidades.csproj.CoreCompileInputs.cache
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\obj\Debug\calculadora de velocidades.exe
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\obj\Debug\calculadora de velocidades.pdb
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\bin\Debug\calculadora de velocidades.exe.manifest
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\bin\Debug\calculadora de velocidades.application
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\obj\Debug\calculadora de velocidades.exe.manifest
+C:\Users\Deos\source\repos\calculadora de velocidades\calculadora de velocidades\obj\Debug\calculadora de velocidades.application
