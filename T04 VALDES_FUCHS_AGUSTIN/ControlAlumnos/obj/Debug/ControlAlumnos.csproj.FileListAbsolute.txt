@@ -1,0 +1,7 @@
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.exe.config
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.exe
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.pdb
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.csprojAssemblyReference.cache
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.exe
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.pdb
