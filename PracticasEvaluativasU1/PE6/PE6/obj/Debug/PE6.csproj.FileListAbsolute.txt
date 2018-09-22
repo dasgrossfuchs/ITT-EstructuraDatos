@@ -1,0 +1,7 @@
+C:\Users\Deos\Documents\GitHub\PE6\PE6\bin\Debug\PE6.exe.config
+C:\Users\Deos\Documents\GitHub\PE6\PE6\bin\Debug\PE6.exe
+C:\Users\Deos\Documents\GitHub\PE6\PE6\bin\Debug\PE6.pdb
+C:\Users\Deos\Documents\GitHub\PE6\PE6\obj\Debug\PE6.csprojAssemblyReference.cache
+C:\Users\Deos\Documents\GitHub\PE6\PE6\obj\Debug\PE6.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\PE6\PE6\obj\Debug\PE6.exe
+C:\Users\Deos\Documents\GitHub\PE6\PE6\obj\Debug\PE6.pdb

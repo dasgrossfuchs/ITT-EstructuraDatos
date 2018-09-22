@@ -1,0 +1,7 @@
+C:\Users\Deos\Documents\GitHub\PE5\PE5\bin\Debug\PE5.exe.config
+C:\Users\Deos\Documents\GitHub\PE5\PE5\bin\Debug\PE5.exe
+C:\Users\Deos\Documents\GitHub\PE5\PE5\bin\Debug\PE5.pdb
+C:\Users\Deos\Documents\GitHub\PE5\PE5\obj\Debug\PE5.csprojAssemblyReference.cache
+C:\Users\Deos\Documents\GitHub\PE5\PE5\obj\Debug\PE5.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\PE5\PE5\obj\Debug\PE5.exe
+C:\Users\Deos\Documents\GitHub\PE5\PE5\obj\Debug\PE5.pdb

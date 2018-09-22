@@ -1,0 +1,6 @@
+C:\Users\Deos\Documents\GitHub\PE3\PE3\bin\Debug\PE3.exe.config
+C:\Users\Deos\Documents\GitHub\PE3\PE3\bin\Debug\PE3.exe
+C:\Users\Deos\Documents\GitHub\PE3\PE3\bin\Debug\PE3.pdb
+C:\Users\Deos\Documents\GitHub\PE3\PE3\obj\Debug\PE3.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\PE3\PE3\obj\Debug\PE3.exe
+C:\Users\Deos\Documents\GitHub\PE3\PE3\obj\Debug\PE3.pdb

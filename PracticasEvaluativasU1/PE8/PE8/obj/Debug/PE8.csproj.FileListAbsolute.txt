@@ -1,0 +1,7 @@
+C:\Users\Deos\Documents\GitHub\PE8\PE8\obj\Debug\PE8.csprojAssemblyReference.cache
+C:\Users\Deos\Documents\GitHub\PE8\PE8\obj\Debug\PE8.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\PE8\PE8\bin\Debug\PE8.exe.config
+C:\Users\Deos\Documents\GitHub\PE8\PE8\bin\Debug\PE8.exe
+C:\Users\Deos\Documents\GitHub\PE8\PE8\bin\Debug\PE8.pdb
+C:\Users\Deos\Documents\GitHub\PE8\PE8\obj\Debug\PE8.exe
+C:\Users\Deos\Documents\GitHub\PE8\PE8\obj\Debug\PE8.pdb

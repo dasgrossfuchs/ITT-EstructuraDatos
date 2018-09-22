@@ -1,0 +1,6 @@
+C:\Users\Deos\Documents\GitHub\PE7\PE7\bin\Debug\PE7.exe.config
+C:\Users\Deos\Documents\GitHub\PE7\PE7\bin\Debug\PE7.exe
+C:\Users\Deos\Documents\GitHub\PE7\PE7\bin\Debug\PE7.pdb
+C:\Users\Deos\Documents\GitHub\PE7\PE7\obj\Debug\PE7.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\PE7\PE7\obj\Debug\PE7.exe
+C:\Users\Deos\Documents\GitHub\PE7\PE7\obj\Debug\PE7.pdb
