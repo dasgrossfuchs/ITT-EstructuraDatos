@@ -10,11 +10,13 @@ namespace PE4
     {
         static void Main(string[] args)
         {
-            int[] abc = new int[3];
+            char[] abc = new char[]{'a','b', 'c'};
+            Console.WriteLine("el menos de a,b, y c es {0}",abc.Min());
+            int[] def = new int[3];
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine("Capturando dato {0}", i + 1);
-                abc[i] = int.Parse(Console.ReadLine());
+                def[i] = int.Parse(Console.ReadLine());
             }
             Console.WriteLine("El valor menor es {0}", abc.Min());
         }

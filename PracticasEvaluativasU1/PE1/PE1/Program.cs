@@ -20,6 +20,7 @@ namespace PE1
                 sucesion[i] = int.Parse(Console.ReadLine());
             }
             Console.WriteLine("El valor mas pequeño es de {0}",sucesion.Min());
+            Console.WriteLine("El valor mas grande es de {0}", sucesion.Max());
         }
     }
 }

@@ -5,3 +5,10 @@ C:\Users\Deos\Documents\GitHub\PE1\PE1\obj\Debug\PE1.csprojAssemblyReference.cac
 C:\Users\Deos\Documents\GitHub\PE1\PE1\obj\Debug\PE1.csproj.CoreCompileInputs.cache
 C:\Users\Deos\Documents\GitHub\PE1\PE1\obj\Debug\PE1.exe
 C:\Users\Deos\Documents\GitHub\PE1\PE1\obj\Debug\PE1.pdb
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\PracticasEvaluativasU1\PE1\PE1\bin\Debug\PE1.exe.config
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\PracticasEvaluativasU1\PE1\PE1\bin\Debug\PE1.exe
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\PracticasEvaluativasU1\PE1\PE1\bin\Debug\PE1.pdb
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\PracticasEvaluativasU1\PE1\PE1\obj\Debug\PE1.csprojAssemblyReference.cache
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\PracticasEvaluativasU1\PE1\PE1\obj\Debug\PE1.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\PracticasEvaluativasU1\PE1\PE1\obj\Debug\PE1.exe
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\PracticasEvaluativasU1\PE1\PE1\obj\Debug\PE1.pdb
