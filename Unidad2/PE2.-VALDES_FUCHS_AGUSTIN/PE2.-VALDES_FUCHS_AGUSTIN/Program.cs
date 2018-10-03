@@ -24,16 +24,28 @@ namespace PE2._VALDES_FUCHS_AGUSTIN
                 int[] arreglo = new int[n];
                 Sucesion poop = new Sucesion(n);
                 poop.Creacion();
+                var relojanalogo = System.Diagnostics.Stopwatch.StartNew();
                 Console.ForegroundColor=ConsoleColor.Cyan;
                 Console.WriteLine("El valor minimo de esta es {0}\n",poop.Min(0));
                 Console.ResetColor();
+                relojanalogo.Stop();
+                var tiempocyan = relojanalogo.ElapsedMilliseconds;
+                Console.WriteLine("El proceso con recursividad tomo {0}.ms en correr\n", tiempocyan);
+                var relojdigital = System.Diagnostics.Stopwatch.StartNew();
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine("El valor maximo de esta es {0}\n", poop.Max(0));
                 Console.ResetColor();
+                relojanalogo.Stop();
+                var tiemporosa = relojdigital.ElapsedMilliseconds;
+                Console.WriteLine("El proceso con recursividad tomo {0}.ms en correr\n", tiemporosa);
+                var relojamarillo = System.Diagnostics.Stopwatch.StartNew();
                 Console.ForegroundColor = ConsoleColor.DarkYellow;
                 Console.WriteLine("Mira que chido puedo invertir esta sucesion ~Blooop~");
                 poop.Inv(n);
                 Console.ResetColor();
+                relojanalogo.Stop();
+                var tiempoamarillo = relojamarillo.ElapsedMilliseconds;
+                Console.WriteLine("El proceso con recursividad tomo {0}.ms en correr\n", tiempoamarillo);
             }
             
             catch (Exception e) { Console.Write(e.Message); }
