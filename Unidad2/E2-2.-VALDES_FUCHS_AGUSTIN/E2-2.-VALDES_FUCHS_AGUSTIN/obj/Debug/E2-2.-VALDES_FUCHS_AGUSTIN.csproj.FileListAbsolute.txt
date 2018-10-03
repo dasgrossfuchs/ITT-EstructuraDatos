@@ -1,0 +1,14 @@
+C:\Users\Deos\Documents\GitHub\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\bin\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.exe.config
+C:\Users\Deos\Documents\GitHub\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\bin\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.exe
+C:\Users\Deos\Documents\GitHub\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\bin\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.pdb
+C:\Users\Deos\Documents\GitHub\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\obj\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.csprojAssemblyReference.cache
+C:\Users\Deos\Documents\GitHub\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\obj\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\obj\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.exe
+C:\Users\Deos\Documents\GitHub\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\obj\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.pdb
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad2\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\bin\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.exe.config
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad2\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\bin\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.exe
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad2\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\bin\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.pdb
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad2\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\obj\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.csprojAssemblyReference.cache
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad2\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\obj\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad2\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\obj\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.exe
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad2\E2-2.-VALDES_FUCHS_AGUSTIN\E2-2.-VALDES_FUCHS_AGUSTIN\obj\Debug\E2-2.-VALDES_FUCHS_AGUSTIN.pdb
