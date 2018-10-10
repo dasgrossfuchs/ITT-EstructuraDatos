@@ -1,0 +1,14 @@
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.exe.config
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.exe
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.pdb
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.csprojAssemblyReference.cache
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.exe
+C:\Users\Deos\source\repos\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.pdb
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\T04 VALDES_FUCHS_AGUSTIN\ControlAlumnos\obj\Debug\ControlAlumnos.csprojAssemblyReference.cache
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\T04 VALDES_FUCHS_AGUSTIN\ControlAlumnos\obj\Debug\ControlAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\T04 VALDES_FUCHS_AGUSTIN\ControlAlumnos\obj\Debug\ControlAlumnos.exe
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\T04 VALDES_FUCHS_AGUSTIN\ControlAlumnos\obj\Debug\ControlAlumnos.pdb
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\T04 VALDES_FUCHS_AGUSTIN\ControlAlumnos\bin\Debug\ControlAlumnos.exe.config
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\T04 VALDES_FUCHS_AGUSTIN\ControlAlumnos\bin\Debug\ControlAlumnos.exe
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\T04 VALDES_FUCHS_AGUSTIN\ControlAlumnos\bin\Debug\ControlAlumnos.pdb
