@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-namespace E.C_Raso_Padilla_Jose_Manuel
+namespace ECVALDESFUCHSAGUSTIN
 {
     class Program
     {
@@ -15,25 +15,32 @@ namespace E.C_Raso_Padilla_Jose_Manuel
 
             Pila.Push("Brownies");
             Pila.Push("pies");
-            Pila.Push("drogas que se insertan por atras");
+            Pila.Push("popo");
             Pila.Push("amor");
 
             //Comprueba si un elemento esta dentro de la pila
             if (Pila.Contains("Brownies"))
-                Console.WriteLine("1.-wow, chocolate papi, dame todo tu choco choco late bb\n");
+            { 
+                Console.WriteLine("1.-la pila tiene chocolate dentro");
+            
+                if (Pila.Contains("popo"))
+                    Console.WriteLine("probablemente sea popo\n");
+            }
             else
                 Console.WriteLine("1.-Ando a dieta prro\n");
+            
+            
 
             //Se utiliza para saber de que tipo es el objeto
             if (Pila.GetType() == typeof(Stack))
-                Console.WriteLine("2.-son del mismo tipo supongo\n");
+                Console.WriteLine("2.-el tipo de objeto es \n");
             else
-                Console.WriteLine("2.-la verdad no fui a la clase aunque si entiendo basicamente lo que hacen los metodos\n");
+                Console.WriteLine("2.-el tipo no es consistente\n");
 
-            //Regresa un string que representa el objeto seleccionado
+            //a partir de la pila crea un dato tipo string
             Console.WriteLine("3.-" + Pila.ToString() + "\n");
 
-            //Convierte la pila a arreglo haciendola asi capaz de usar las funciones de arreglos.
+            //a partir de la pila se convierte a arreglo, esto permite hacer funciones unicamente disponibles para arreglos
             Console.WriteLine("4.-" + Pila.ToArray().ElementAt(2) + "\n");
 
             //Consigue un Ienumerator de la pila
