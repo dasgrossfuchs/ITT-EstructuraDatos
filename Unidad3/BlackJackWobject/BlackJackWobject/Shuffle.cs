@@ -9,7 +9,8 @@ namespace BlackJackWobject
 {
     class Shuffle
     {
-        Stack barajareada = new Stack();
+        
+        Stack<Card> barajareada ;
         public Shuffle() { }
         string[] baraja;
         string symbol = "";
@@ -24,10 +25,10 @@ namespace BlackJackWobject
 
                 switch (i)
                 {
-                    case 1: symbol = "♥"; break;
-                    case 2: symbol = "♦"; break;
-                    case 3: symbol = "♣"; break;
-                    case 4: symbol = "♠"; break;
+                    case 1: symbol = "C"; break;
+                    case 2: symbol = "D"; break;
+                    case 3: symbol = "T"; break;
+                    case 4: symbol = "E"; break;
                     default: break;
                 }
                 for (int ii = 1; ii < 14; ii++)
@@ -58,20 +59,18 @@ namespace BlackJackWobject
             
             baraja = baraja.OrderBy(barajeoaleatorio => rndm.Next()).ToArray();
             Console.WriteLine("barajeado");
-            
-
-            foreach (string item in baraja)
+            barajareada = new Stack<Card>();
+            foreach (var item in baraja)
             {
-                Card cartabase = new Card();
-                cartabase.Name = item;
-                barajareada.Push(cartabase);
+                Card cartanueva = new Card();
+                cartanueva.Name = item;
+                barajareada.Push(cartanueva);
 
             }
-            foreach (string item in barajareada)
+            
+            foreach (Card item in barajareada)
             {
-                Card cartabase = new Card();
-
-                cartabase = barajareada.Peek();
+                Console.WriteLine(item.Name);
                 
             }
 
