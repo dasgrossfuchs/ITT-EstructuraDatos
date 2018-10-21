@@ -37,7 +37,7 @@ namespace BlackJack
                         Console.WriteLine("escribe la opcion");
                         Console.WriteLine("NO --> 0");
                         opc = Console.ReadLine();
-                        if (opc != "0")
+                        if (opc == "0")
                         {
                             juego = false;
                         }
@@ -71,7 +71,7 @@ namespace BlackJack
                         Console.WriteLine("escribe la opcion");
                         Console.WriteLine("NO --> 0");
                         opc = Console.ReadLine();
-                        if (opc != "0")
+                        if (opc == "0")
                         {
                             juego = false;
                         }
