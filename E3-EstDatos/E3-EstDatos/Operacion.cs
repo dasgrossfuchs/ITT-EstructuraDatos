@@ -10,6 +10,7 @@ namespace E3_EstDatos
 {
     public class Operacion
     {
+
         public void Principal()
         {
             Stack Lista = new Stack();
@@ -101,7 +102,7 @@ namespace E3_EstDatos
             Console.WriteLine("La lista normal duro {0}ms",w1.ElapsedMilliseconds);
             Console.WriteLine("La lista ligada duro {0}ms", w2.ElapsedMilliseconds);
         }
-
+        List<Clase> listaclase = new List<Clase>();
         public void Ejercicio4()
         {
 
@@ -109,12 +110,12 @@ namespace E3_EstDatos
             // en un solo curso.Incluir métodos que calculen la nota media, la
             //calificacion más alto, y el calificacion más bajo. Escribe un programa para poner a prueba tu clase.
             //implementación. Minimo 30 Calificaciones, de 30 alumnos.
-            //public int Media { get; set; }
+            
             Console.WriteLine("Nombre del maestro");
             string name = Console.ReadLine();
             Console.WriteLine("Nombre de la clase");
             string classname = Console.ReadLine();
-            List < Clase > listaclase = new List<Clase>();
+            
             Clase clase;
             for (int i = 0; i < 30; i++)
             {
@@ -127,7 +128,40 @@ namespace E3_EstDatos
                 clase.Calificacion = int.Parse(Console.ReadLine());
                 listaclase.Add(clase);
             }
-            
+            Console.WriteLine("El promedio del grupo es de {0}",Media());
+            Console.WriteLine("La calificacion mas alta fue la de{0}",Max());
+            Console.WriteLine("La calificacion mas baja fue la de{0}", Min());
+
         }
+        public int Media()
+        {
+            int sum = 0;
+            foreach (var item in listaclase)
+            {
+                sum = sum + item.Calificacion;
+            }
+            return (sum / 30);
+        }
+        public int Max()
+        {
+            int temp = 0;
+            foreach (var item in listaclase)
+            {
+                if (item.Calificacion >= temp) temp = item.Calificacion;
+                
+            }
+            return temp;
+        }
+        public int Min()
+        {
+            int temp = 99999999;
+            foreach (var item in listaclase)
+            {
+                if (item.Calificacion <= temp) temp = item.Calificacion;
+                
+            }
+            return temp;
+        }
+
     }
 }
