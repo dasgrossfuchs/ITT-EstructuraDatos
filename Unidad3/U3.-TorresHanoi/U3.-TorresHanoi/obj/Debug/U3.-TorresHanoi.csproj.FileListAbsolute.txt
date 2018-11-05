@@ -1,0 +1,7 @@
+C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\bin\Debug\U3.-TorresHanoi.exe.config
+C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\bin\Debug\U3.-TorresHanoi.exe
+C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\bin\Debug\U3.-TorresHanoi.pdb
+C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.exe
+C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.pdb
