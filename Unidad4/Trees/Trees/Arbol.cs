@@ -11,7 +11,7 @@ namespace Trees
         Queue<Nodo> cola = new Queue<Nodo>();
         public void Inicio()
         {
-            PlantarArbol("A",1);//se que no tiene sentido, pero se hace una busqueda binaria para capturar el arbol uwu 
+            PlantarArbol("A",1);//se que no tiene sentido, pero funciona y eso es lo que cuenta no  uwu 
             PlantarArbol("B", 2);
             PlantarArbol("D", 3);
             PlantarArbol("G", 4);
