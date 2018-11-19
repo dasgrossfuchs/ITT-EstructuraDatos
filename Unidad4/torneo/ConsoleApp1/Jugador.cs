@@ -35,5 +35,9 @@ namespace ConsoleApp1
             }
             Win = true;
         }
+        public void Ganador(Jugador jugadorlocal)
+        {
+            NextMatch = jugadorlocal;
+        }
     }
 }
