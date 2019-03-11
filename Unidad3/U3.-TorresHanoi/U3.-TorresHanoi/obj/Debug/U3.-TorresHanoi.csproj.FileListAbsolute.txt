@@ -5,3 +5,10 @@ C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.
 C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.csproj.CoreCompileInputs.cache
 C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.exe
 C:\Users\Joey\Desktop\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.pdb
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\U3.-TorresHanoi\U3.-TorresHanoi\bin\Debug\U3.-TorresHanoi.exe.config
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\U3.-TorresHanoi\U3.-TorresHanoi\bin\Debug\U3.-TorresHanoi.exe
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\U3.-TorresHanoi\U3.-TorresHanoi\bin\Debug\U3.-TorresHanoi.pdb
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.csprojAssemblyReference.cache
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.exe
+C:\Users\Deos\Documents\GitHub\ITT-EstructuraDatos\Unidad3\U3.-TorresHanoi\U3.-TorresHanoi\obj\Debug\U3.-TorresHanoi.pdb
